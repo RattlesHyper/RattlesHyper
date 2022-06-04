@@ -1,9 +1,6 @@
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/502553212801515520.png" height="1000px"/></a></p>
 
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi</h1>
-
 ## #️⃣ Tools & Languages
 
 <p align="left">
@@ -14,9 +11,6 @@
 </p>
 
 <br/>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&duration=3000&size=22&lines=Nothing+SUS;Coding+for+fun;Not+a+Discord+Mod+btw;Can't+sleep!;Default+male+human"/>
-</p>
 
 <p align="center">
     <a>
