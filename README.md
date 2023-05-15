@@ -37,6 +37,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.youtube.com/channel/UCrOD2iq1muNhIcRTQX0Xh6A" target="_blank"><img src="https://github.com/RattlesHyper/RattlesHyper/assets/60119170/18fe1e5a-64f2-4a55-9bbb-00de5f8dd748"/></a>
-<a href = "https://discord.gg/m6b8Pw4NR8" target="_blank"><img src="https://github.com/RattlesHyper/RattlesHyper/assets/60119170/7e551709-5943-44a3-b839-e3aeea282d87"/></a>
+<a href = "https://www.youtube.com/channel/UCrOD2iq1muNhIcRTQX0Xh6A" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60119170/238229140-7e551709-5943-44a3-b839-e3aeea282d87.svg"/></a>
+<a href = "https://discord.gg/m6b8Pw4NR8" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60119170/238229140-7e551709-5943-44a3-b839-e3aeea282d87.svg"/></a>
 </p>
