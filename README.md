@@ -31,8 +31,6 @@
 <br/>
 <br/>
 
-<a><img src="https://activity-graph.herokuapp.com/graph?username=RattlesHyper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -40,6 +38,6 @@
 <p align="left">
 
 
-<a href = "https://www.youtube.com/channel/UCrOD2iq1muNhIcRTQX0Xh6A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discord.gg/m6b8Pw4NR8"><img src="https://img.icons8.com/color/discord"/></a>
+<a href = "https://www.youtube.com/channel/UCrOD2iq1muNhIcRTQX0Xh6A"><img src="https://github.com/RattlesHyper/RattlesHyper/assets/60119170/18fe1e5a-64f2-4a55-9bbb-00de5f8dd748"/></a>
+<a href = "https://discord.gg/m6b8Pw4NR8"><img src="https://github.com/RattlesHyper/RattlesHyper/assets/60119170/7e551709-5943-44a3-b839-e3aeea282d87"/></a>
 </p>
