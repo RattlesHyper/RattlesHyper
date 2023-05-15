@@ -1,5 +1,5 @@
 </details>
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/502553212801515520.png" height="1000px"/></a></p>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-5/1068883227516878848.png" height="1000px"/></a></p>
 
 ## #️⃣ Tools & Languages
 
