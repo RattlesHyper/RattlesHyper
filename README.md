@@ -17,26 +17,3 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RattlesHyper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 Stats
-
-  <br/>
-    <a><img src="https://github-readme-stats.vercel.app/api?username=RattlesHyper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RattlesHyper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.youtube.com/channel/UCrOD2iq1muNhIcRTQX0Xh6A" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60119170/238229139-18fe1e5a-64f2-4a55-9bbb-00de5f8dd748.svg"/></a>
-<a href = "https://discord.gg/m6b8Pw4NR8" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60119170/238229140-7e551709-5943-44a3-b839-e3aeea282d87.svg"/></a>
-</p>
